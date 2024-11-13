@@ -1,0 +1,31 @@
+/* 
+  Localizable.strings
+  todoapp
+
+  Created by admin on 13/11/24.
+  
+*/
+"myToDoList" = "Danh sách công việc";
+"addNewTask" = "Thêm việc mới";
+"completed" = "Đã hoàn thành";
+"taskTitle" = "Tiêu đề công việc";
+"category" = "Danh mục";
+"date" = "Ngày";
+"time" = "Giờ";
+"notes" = "Ghi chú";
+"save" = "Thêm";
+"errorTaskTitle" = "Không được bỏ trống tiêu đề";
+"errorNotes" = "Không được bỏ trống ghi chú";
+"addSuccessfullly" = "Thêm thành công";
+"addFailure" = "Lỗi";
+"alert" = "Thông báo";
+"ok" = "Ok";
+"usr" = "Tài khoản";
+"pwd" = "Mật khẩu";
+"signIn" = "Đăng nhập";
+"signUp" = "Đăng ký";
+"errorUsername" = "Tài khoản không được để trống";
+"errorPassword" = "Mật khẩu không được để trống";
+"errorRePassword" = "Không để trống các trường";
+"notMatch" = "Mật khẩu nhập lại không đúng";
+"regSuccessfully" = "Đăng ký thành công";

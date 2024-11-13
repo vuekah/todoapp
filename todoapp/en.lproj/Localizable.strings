@@ -1,0 +1,33 @@
+/*
+  Localizable.strings
+  todoapp
+
+  Created by admin on 13/11/24.
+  
+*/
+"myToDoList" = "My Todo List";
+"addNewTask" = "Add New Task";
+"completed" = "Completed";
+"taskTitle" = "Task Title";
+"category" = "Category";
+"date" = "Date";
+"time" = "Time";
+"notes" = "Notes";
+"save" = "Save";
+"errorTaskTitle" = "Task title is required.";
+"errorNotes" = "Notes are required.";
+"addSuccessfullly" = "Added task successfully.";
+"addFailure" = "Failed to add task";
+"alert" = "Alert";
+"ok" = "Ok";
+"usr" = "Username";
+"pwd" = "Password";
+"signIn" = "Login";
+"signUp" = "Sign Up";
+"errorUsername" = "Please enter username";
+"errorPassword" = "Please enter password";
+"errorRePassword" = "Please enter Re-password";
+"notMatch" = "Re-Password is not match";
+"regSuccessfully" = "Register Successfully";
+
+
